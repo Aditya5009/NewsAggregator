@@ -5,9 +5,6 @@ This project automatically fetches news from various news websites and presents 
 ## Features
 
 - Automatic news updates from multiple sources
-- User-friendly React interface
-- Regular updates every 10 minutes
-- Comprehensive news aggregation
 
 ## Installation
 
